@@ -1,0 +1,1 @@
+// Entry point untuk app Next.js
